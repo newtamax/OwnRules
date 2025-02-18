@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202504151
+# Version:202502181
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,minepi.com
 DOMAIN-SUFFIX,piappengine.com
 DOMAIN-SUFFIX,socialchain.app
 DOMAIN-SUFFIX,18hlw.com
+DOMAIN-KEYWORD,4pda
 
 # > Cinema
 DOMAIN,emby.cn2gias.uk
