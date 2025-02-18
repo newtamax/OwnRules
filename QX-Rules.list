@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202502153
+#VER=202502181
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -675,6 +675,7 @@ DOMAIN-SUFFIX,minepi.com,PROXY
 DOMAIN-SUFFIX,piappengine.com,PROXY
 DOMAIN-SUFFIX,socialchain.app,PROXY
 DOMAIN-SUFFIX,18hlw.com,PROXY
+DOMAIN-KEYWORD,4pda,PROXY
 IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
 DOMAIN-KEYWORD,gying,DIRECT
