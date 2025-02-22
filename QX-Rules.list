@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202502181
+#VER=202502221
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -689,6 +689,7 @@ DOMAIN-SUFFIX,zhuiyingmao4.com,PROXY
 DOMAIN-SUFFIX,wdoo.net,PROXY
 DOMAIN-SUFFIX,cupfox.love,PROXY
 DOMAIN-SUFFIX,fangpi.net,PROXY
+DOMAIN-SUFFIX,gequbao.com,PROXY
 DOMAIN-SUFFIX,yym4.com,PROXY
 DOMAIN-SUFFIX,makifx.com,PROXY
 DOMAIN-SUFFIX,mefun.org,PROXY
