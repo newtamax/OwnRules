@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202502231
+# Version:202502232
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,tophub.app
 DOMAIN-SUFFIX,zbds.top
 DOMAIN-SUFFIX,mefcl.com
 DOMAIN-SUFFIX,medisearch.io
+DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,woolyss.com
 DOMAIN-SUFFIX,ppbuzz.com
