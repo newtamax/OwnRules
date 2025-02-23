@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202502231
+#VER=202502232
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -666,6 +666,7 @@ DOMAIN-SUFFIX,zbds.top,PROXY
 DOMAIN-SUFFIX,mefcl.com,PROXY
 DOMAIN-SUFFIX,medisearch.io,PROXY
 DOMAIN-SUFFIX,sleazyfork.org,PROXY
+DOMAIN-SUFFIX,greasyfork.org,PROXY
 DOMAIN-SUFFIX,woolyss.com,PROXY
 DOMAIN-SUFFIX,ppbuzz.com,PROXY
 DOMAIN-SUFFIX,localsend.org,PROXY
