@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202503151
+#VER=202503181
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -680,6 +680,7 @@ DOMAIN-SUFFIX,ghproxy.link,PROXY
 DOMAIN-SUFFIX,unidownloader.com,PROXY
 DOMAIN-SUFFIX,ip-ddns.com,PROXY
 DOMAIN-SUFFIX,flowith.io,PROXY
+DOMAIN-SUFFIX,oceancloud.asia,PROXY
 DOMAIN-KEYWORD,4pda,PROXY
 IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
