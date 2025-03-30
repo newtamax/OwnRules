@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202503182
+#VER=202503301
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -704,6 +704,7 @@ DOMAIN-SUFFIX,miaosou.fun,PROXY
 DOMAIN-SUFFIX,pan666.net,PROXY
 DOMAIN-SUFFIX,pansearch.me,PROXY
 DOMAIN-SUFFIX,wogg.net,PROXY
+DOMAIN-SUFFIX,yingshikong1.com,PROXY
 DOMAIN-KEYWORD,histar,PROXY
 DOMAIN-KEYWORD,missav,PROXY
 IP-CIDR,152.53.19.231/32,DIRECT
