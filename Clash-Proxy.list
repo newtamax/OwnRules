@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202503182
+# Version:202503301
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,pan666.net
 DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,wogg.net
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,yingshikong1.com
 DOMAIN-KEYWORD,histar
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,1e100
