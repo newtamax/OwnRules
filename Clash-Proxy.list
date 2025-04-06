@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202504051
+# Version:202504061
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,awatv.de
 DOMAIN-SUFFIX,91ai.de
 DOMAIN-SUFFIX,aikan.la
 DOMAIN-SUFFIX,aikan.cloud
+DOMAIN-SUFFIX,afun.la
 DOMAIN-KEYWORD,sntp
 
 # > Technique
