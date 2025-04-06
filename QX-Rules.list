@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202504051
+#VER=202504061
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -648,6 +648,7 @@ DOMAIN-SUFFIX,awatv.de,PROXY
 DOMAIN-SUFFIX,91ai.de,PROXY
 DOMAIN-SUFFIX,aikan.la,PROXY
 DOMAIN-SUFFIX,aikan.cloud,PROXY
+DOMAIN-SUFFIX,afun.la,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
 # > namespace
 DOMAIN,newtamax.dynu.net,DIRECT
