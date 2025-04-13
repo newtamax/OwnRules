@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202504061
+# Version:202504131
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,91ai.de
 DOMAIN-SUFFIX,aikan.la
 DOMAIN-SUFFIX,aikan.cloud
 DOMAIN-SUFFIX,afun.la
+DOMAIN-SUFFIX,iplc.homes
 DOMAIN-KEYWORD,sntp
 
 # > Technique
@@ -67,6 +68,7 @@ DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,wogg.net
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,yingshikong1.com
+DOMAIN-SUFFIX,panku8.com
 DOMAIN-KEYWORD,histar
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,1e100
