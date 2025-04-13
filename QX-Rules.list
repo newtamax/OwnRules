@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202504061
+#VER=202504131
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -649,6 +649,7 @@ DOMAIN-SUFFIX,91ai.de,PROXY
 DOMAIN-SUFFIX,aikan.la,PROXY
 DOMAIN-SUFFIX,aikan.cloud,PROXY
 DOMAIN-SUFFIX,afun.la,PROXY
+DOMAIN-SUFFIX,panku8.com,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
 # > namespace
 DOMAIN,newtamax.dynu.net,DIRECT
@@ -707,6 +708,7 @@ DOMAIN-SUFFIX,pan666.net,PROXY
 DOMAIN-SUFFIX,pansearch.me,PROXY
 DOMAIN-SUFFIX,wogg.net,PROXY
 DOMAIN-SUFFIX,yingshikong1.com,PROXY
+DOMAIN-SUFFIX,panku8.com,PROXY
 DOMAIN-KEYWORD,histar,PROXY
 DOMAIN-KEYWORD,missav,PROXY
 IP-CIDR,152.53.19.231/32,DIRECT
