@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202504131
+# Version:202504132
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,aikan.la
 DOMAIN-SUFFIX,aikan.cloud
 DOMAIN-SUFFIX,afun.la
 DOMAIN-SUFFIX,iplc.homes
+DOMAIN-SUFFIX,bbtec.us
+DOMAIN-SUFFIX,sakana.homes
 DOMAIN-KEYWORD,sntp
 
 # > Technique
