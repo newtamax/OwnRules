@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202507201
+#VER=202507251
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -651,8 +651,9 @@ DOMAIN-SUFFIX,iplc.homes,PROXY
 DOMAIN-SUFFIX,bbtec.us,PROXY
 DOMAIN-SUFFIX,sakana.homes,PROXY
 DOMAIN-SUFFIX,trafficmanager.net,PROXY
-DOMAIN-SUFFIX,yeshafast.top,PROXY
+DOMAIN-SUFFIX,sffyn.com,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
+DOMAIN-KEYWORD,yesha,PROXY
 # > namespace
 DOMAIN,newtamax.dynu.net,DIRECT
 DOMAIN,newtamax.zapto.org,DIRECT
