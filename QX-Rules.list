@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202508081
+#VER=202508082
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -698,7 +698,7 @@ IP-CIDR,95.161.76.100/31,REJECT
 DOMAIN-KEYWORD,gying,DIRECT
 DOMAIN-KEYWORD,gyg,DIRECT
 DOMAIN-KEYWORD,tvbox?.com,DIRECT
-DOMAIN,emby.cn2gias.uk,PROXY
+DOMAIN-SUFFIX,cn2gias.uk,PROXY
 DOMAIN-SUFFIX,freemp3cloud.com,PROXY
 DOMAIN-SUFFIX,shuanu.com,PROXY
 DOMAIN-SUFFIX,soupian.app,PROXY
