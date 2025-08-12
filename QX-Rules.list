@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202508121
+#VER=202508122
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -687,7 +687,6 @@ DOMAIN-SUFFIX,unidownloader.com,PROXY
 DOMAIN-SUFFIX,ip-ddns.com,PROXY
 DOMAIN-SUFFIX,flowith.io,PROXY
 DOMAIN-SUFFIX,saily.com,PROXY
-DOMAIN-SUFFIX,oplist.org,PROXY
 DOMAIN-SUFFIX,sideloadly.io,PROXY
 DOMAIN-SUFFIX,estk.me,PROXY
 DOMAIN-SUFFIX,bulianglin.com,PROXY
