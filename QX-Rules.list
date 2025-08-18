@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202508122
+#VER=202508181
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -720,6 +720,9 @@ DOMAIN-SUFFIX,panku8.com,PROXY
 DOMAIN-SUFFIX,xiaoyakankan.com,PROXY
 DOMAIN-SUFFIX,a123tv.com,PROXY
 DOMAIN-SUFFIX,zn.al,🇺🇸 美国
+DOMAIN-SUFFIX,veryfast.filegear-sg.me,🇹🇼 台湾
+DOMAIN-SUFFIX,oktv.workers.dev,🇹🇼 台湾
+DOMAIN-SUFFIX,xtvantsc.xyz,🇹🇼 台湾
 DOMAIN-KEYWORD,histar,PROXY
 DOMAIN-KEYWORD,missav,PROXY
 IP-CIDR,152.53.19.231/32,DIRECT
