@@ -1,8 +1,11 @@
 # 代理补充列表
-# Version:202508181
+# Version:202508191
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/aptv-tw.list
 
 # > aptv
 DOMAIN-SUFFIX,veryfast.filegear-sg.me
 DOMAIN-SUFFIX,oktv.workers.dev
 DOMAIN-SUFFIX,xtvantsc.xyz
+DOMAIN-SUFFIX,163189.xyz
+DOMAIN-SUFFIX,jdshipin.com
+DOMAIN-SUFFIX,tvclub.xyz
