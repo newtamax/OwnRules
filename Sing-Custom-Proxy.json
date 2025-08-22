@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "cctv.paoluma.de",
+        "cctv.paoluma.de"
       ],
       "domain_suffix": [
         "qichiyu.com",
@@ -45,7 +45,7 @@
 		"flowith.io",
 		"saily.com",
 		"sideloadly.io",
-		"estk.me",
+		"estk.me"
 		"bulianglin.com",
 		"repcz.link",
 		"freemp3cloud.com",
@@ -70,9 +70,10 @@
 		"panku8.com",
 		"xiaoyakankan.com",
 		"a123tv.com"
-      ]
+      ],
+	  "domain_keyword": [
+        "yesha"
+      ],
     }
   ]
 }
-
-
