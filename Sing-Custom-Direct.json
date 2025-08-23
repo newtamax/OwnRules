@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "akali.paoluma.de",
+		"newtamax.dynu.net",
+		"newtamax.zapto.org",
+		"chenlihua.dynu.net",
+		"muxuhao.dynu.net"
+      ],
+	  "domain_keyword": [
+        "gying",
+		"gyg"
+      ]
+    }
+  ]
+}
