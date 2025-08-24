@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202508241
+#VER=202508242
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -692,6 +692,7 @@ DOMAIN-SUFFIX,estk.me,PROXY
 DOMAIN-SUFFIX,bulianglin.com,PROXY
 DOMAIN-SUFFIX,qichiyu.com,PROXY
 DOMAIN-SUFFIX,repcz.link,PROXY
+DOMAIN-SUFFIX,gfweb.ca,PROXY
 DOMAIN-KEYWORD,4pda,PROXY
 IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
