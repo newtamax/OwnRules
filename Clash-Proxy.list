@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202508231
+# Version:202508241
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -61,11 +61,11 @@ DOMAIN-SUFFIX,saily.com
 DOMAIN-SUFFIX,sideloadly.io
 DOMAIN-SUFFIX,estk.me
 DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,repcz.link
 DOMAIN-KEYWORD,4pda
 
 # > Cinema
-DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,freemp3cloud.com
 DOMAIN-SUFFIX,shuanu.com
 DOMAIN-SUFFIX,soupian.app
@@ -83,7 +83,6 @@ DOMAIN-SUFFIX,miaosou.fun
 DOMAIN-SUFFIX,pan666.net
 DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,wogg.net
-DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,yingshikong1.com
 DOMAIN-SUFFIX,panku8.com
 DOMAIN-SUFFIX,xiaoyakankan.com
@@ -94,6 +93,7 @@ DOMAIN-SUFFIX,xylyra.com
 DOMAIN-SUFFIX,cloudfisher.cc
 DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,onyra.cc
 DOMAIN-KEYWORD,histar
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,1e100
