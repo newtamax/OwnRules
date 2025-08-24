@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202508241
+# Version:202508242
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,estk.me
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,repcz.link
+DOMAIN-SUFFIX,gfweb.ca
 DOMAIN-KEYWORD,4pda
 
 # > Cinema
