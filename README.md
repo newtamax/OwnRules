@@ -1,1 +1,1 @@
-QX and Clash Rules for Own Use
+QX Loon Sing and Clash Rules for Own Use
