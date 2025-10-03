@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202508291
+# Version:202510031
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,cloudfisher.cc
 DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,onyra.cc
+DOMAIN-SUFFIX,onyra.uk
 DOMAIN-SUFFIX,fanmingming.cn
 DOMAIN-KEYWORD,histar
 DOMAIN-KEYWORD,missav
