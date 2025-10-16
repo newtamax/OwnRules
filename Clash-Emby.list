@@ -1,0 +1,6 @@
+# 代理补充列表(HK-BEUP-Emby)
+# Version:202510161
+# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
+
+# > HK-BEUP-Emby
+DOMAIN-SUFFIX,beupisp.com
