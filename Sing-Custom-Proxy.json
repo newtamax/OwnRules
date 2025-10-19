@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "i.stga.cn",
+        "t.stga.cn",
 		"cctv.paoluma.de"
       ],
       "domain_suffix": [
@@ -72,7 +72,6 @@
 	    "a123tv.com",
 		"gfweb.ca",
 		"kitty.ceo",
-		"stga.cn",
 		"fanmingming.cn"
       ],
 	  "domain_keyword": [
@@ -83,6 +82,7 @@
     }
   ]
 }
+
 
 
 
