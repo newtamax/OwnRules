@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202510171
+#VER=202510191
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -653,7 +653,7 @@ DOMAIN-SUFFIX,sakana.homes,PROXY
 DOMAIN-SUFFIX,trafficmanager.net,PROXY
 DOMAIN-SUFFIX,sffyn.com,PROXY
 DOMAIN-SUFFIX,kitty.ceo,PROXY
-DOMAIN-SUFFIX,stga.cn,PROXY
+DOMAIN-SUFFIX,mexcpool.com,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
 DOMAIN-KEYWORD,tkv,PROXY
 DOMAIN-WILDCARD,yesha*,PROXY
