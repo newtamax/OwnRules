@@ -12,6 +12,7 @@
 #	 https://raw-gh.gcdn.mirr.one/newtamax/OwnRules/master/QX-Rules.list
 #	 https://jsd.cdn.zzko.cn/gh/newtamax/OwnRules@master/QX-Rules.list
 # > 以下是去广告:
+DOMAIN,heic.alicdn.com,REJECT
 DOMAIN,adashxgc.ut.taobao.com,REJECT
 DOMAIN,adashx.m.taobao.com,REJECT
 DOMAIN,h-adashx.ut.taobao.com,REJECT
