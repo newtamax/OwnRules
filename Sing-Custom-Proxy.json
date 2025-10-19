@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "cctv.paoluma.de"
+        "i.stga.cn" ,
+		"cctv.paoluma.de"
       ],
       "domain_suffix": [
         "良心云.com",
@@ -82,6 +83,7 @@
     }
   ]
 }
+
 
 
 
