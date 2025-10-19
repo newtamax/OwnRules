@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "lite.cn2gias.uk", 
+        "cctv.paoluma.de"
+      ],
+      "domain_suffix": [
+		"rjf37.com",
+		"xytx.org",
+		"xylyra.com",
+	    "beupisp.com",
+		"onyra.cc",
+		"onyra.uk",
+		"cloudfisher.cc",
+		"oceancloud.asia",
+		"uhdnow.com"
+      ],
+    }
+  ]
+}
