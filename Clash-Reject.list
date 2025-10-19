@@ -1,5 +1,5 @@
 #TITLE=Clash-Reject
-#VER=202502151
+#VER=202510191
 #URL=https://github.com/newtamax/OwnRules/raw/master/Clash-Reject.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/Clash-Reject.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/Clash-Reject.list
@@ -12,6 +12,7 @@
 #	 https://raw-gh.gcdn.mirr.one/newtamax/OwnRules/master/Clash-Reject.list
 #	 https://jsd.cdn.zzko.cn/gh/newtamax/OwnRules@master/Clash-Reject.list
 # > 以下是去广告:
+DOMAIN,heic.alicdn.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,h-adashx.ut.taobao.com
