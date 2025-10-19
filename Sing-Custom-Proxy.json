@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "i.stga.cn" ,
+        "i.stga.cn",
 		"cctv.paoluma.de"
       ],
       "domain_suffix": [
@@ -83,6 +83,7 @@
     }
   ]
 }
+
 
 
 
