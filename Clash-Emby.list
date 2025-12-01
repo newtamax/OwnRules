@@ -1,5 +1,5 @@
 # 代理补充列表(HK-BEUP-Emby)
-# Version:202511301
+# Version:202512011
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
 
 # > HK-BEUP-Emby
@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,beupisp.com
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,onyra.cc
 DOMAIN-SUFFIX,onyra.uk
+DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,rjf37.com
