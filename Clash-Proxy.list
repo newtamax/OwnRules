@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202511302
+# Version:202512251
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,woolyss.com
 DOMAIN-SUFFIX,ppbuzz.com
 DOMAIN-SUFFIX,localsend.org
 DOMAIN-SUFFIX,v2rayse.com
+DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,minepi.com
 DOMAIN-SUFFIX,piappengine.com
