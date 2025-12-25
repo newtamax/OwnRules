@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202512013
+#VER=202512251
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -683,6 +683,7 @@ DOMAIN-SUFFIX,woolyss.com,PROXY
 DOMAIN-SUFFIX,ppbuzz.com,PROXY
 DOMAIN-SUFFIX,localsend.org,PROXY
 DOMAIN-SUFFIX,v2rayse.com,PROXY
+DOMAIN-SUFFIX,v2rayssr.com,PROXY
 DOMAIN-SUFFIX,linux.do,PROXY
 DOMAIN-SUFFIX,minepi.com,PROXY
 DOMAIN-SUFFIX,piappengine.com,PROXY
