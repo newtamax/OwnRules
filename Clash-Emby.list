@@ -1,5 +1,5 @@
 # 代理补充列表(HK-BEUP-Emby)
-# Version:202512011
+# Version:202512281
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
 
 # > HK-BEUP-Emby
@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,rjf37.com
 DOMAIN-SUFFIX,xytx.org
 DOMAIN-SUFFIX,xylyra.com
+DOMAIN-SUFFIX,emos.lol
+DOMAIN-SUFFIX,empn.mom
