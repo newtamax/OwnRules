@@ -4,6 +4,7 @@
     {
       "domain": [
         "t.stga.cn",
+		"luyuyun.com",
 		"cctv.paoluma.de"
       ],
       "domain_suffix": [
@@ -86,6 +87,7 @@
     }
   ]
 }
+
 
 
 
