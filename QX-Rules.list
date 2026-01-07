@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202601022
+#VER=202601071
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -660,6 +660,7 @@ DOMAIN,luyuyun.com,PROXY
 DOMAIN,i.stga.cn,DIRECT
 DOMAIN,st.stga.cn,DIRECT
 DOMAIN,t.stga.cn,PROXY
+DOMAIN,良心云.com,PROXY
 DOMAIN-SUFFIX,mexcpool.com,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
 DOMAIN-KEYWORD,tkv,PROXY
