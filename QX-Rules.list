@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202601073
+#VER=202601131
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -659,10 +659,11 @@ DOMAIN-SUFFIX,inets.io,PROXY
 DOMAIN-SUFFIX,良心云.com,PROXY
 DOMAIN-SUFFIX,xn--9kqz23b19z.com,PROXY
 DOMAIN,luyuyun.com,PROXY
+DOMAIN-SUFFIX,mexcpool.com,PROXY
 DOMAIN,i.stga.cn,DIRECT
 DOMAIN,st.stga.cn,DIRECT
 DOMAIN,t.stga.cn,PROXY
-DOMAIN-SUFFIX,mexcpool.com,PROXY
+DOMAIN,x.stga.cn,PROXY
 DOMAIN-KEYWORD,sntp,PROXY
 DOMAIN-KEYWORD,tkv,PROXY
 DOMAIN-WILDCARD,yesha*,PROXY
