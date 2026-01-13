@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202601091
+# Version:202601132
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,sublink.dev
 DOMAIN-SUFFIX,xjz.im
 DOMAIN-SUFFIX,sffyn.com
 DOMAIN-SUFFIX,kitty.ceo
+DOMAIN-SUFFIX,kitty.su
 DOMAIN-SUFFIX,mexcpool.com
 DOMAIN-SUFFIX,ctc.run
 DOMAIN-SUFFIX,inets.io
@@ -38,6 +39,7 @@ DOMAIN-SUFFIX,良心云.com
 DOMAIN-SUFFIX,xn--9kqz23b19z.com
 DOMAIN,luyuyun.com
 DOMAIN,t.stga.cn
+DOMAIN,x.stga.cn
 DOMAIN-KEYWORD,sntp
 DOMAIN-KEYWORD,yesha
 DOMAIN-KEYWORD,tkv
