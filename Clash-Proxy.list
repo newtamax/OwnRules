@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202601132
+# Version:202601141
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -79,6 +79,8 @@ DOMAIN-SUFFIX,appraven.net
 DOMAIN-SUFFIX,ddgksf2013.top
 DOMAIN-SUFFIX,duangvps.com
 DOMAIN-SUFFIX,downloadyoutubesubtitles.com
+DOMAIN-SUFFIX,tvbox.fit
+DOMAIN-SUFFIX,xggzy.com
 DOMAIN-KEYWORD,4pda
 
 # > Cinema
