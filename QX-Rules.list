@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202601133
+#VER=202601141
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -711,6 +711,8 @@ DOMAIN-SUFFIX,appraven.net,PROXY
 DOMAIN-SUFFIX,ddgksf2013.top,PROXY
 DOMAIN-SUFFIX,duangvps.com,PROXY
 DOMAIN-SUFFIX,downloadyoutubesubtitles.com,PROXY
+DOMAIN-SUFFIX,tvbox.fit,PROXY
+DOMAIN-SUFFIX,xggzy.com,PROXY
 DOMAIN-KEYWORD,4pda,PROXY
 IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
