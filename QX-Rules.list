@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202601271
+#VER=202601272
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -747,14 +747,12 @@ DOMAIN-SUFFIX,xytx.org,🎞️ Emby专用
 DOMAIN-SUFFIX,xylyra.com,🎞️ Emby专用
 DOMAIN-SUFFIX,cloudfisher.cc,🎞️ Emby专用
 DOMAIN-SUFFIX,oceancloud.asia,🎞️ Emby专用
-DOMAIN,lite.cn2gias.uk,🎞️ BEUP节点
-DOMAIN-SUFFIX,onyra.cc,🎞️ Emby专用
-DOMAIN-SUFFIX,onyra.uk,🎞️ Emby专用
+DOMAIN-SUFFIX,cn2gias.uk,🎞️ BEUP节点
 DOMAIN-SUFFIX,beupisp.com,🎞️ BEUP节点
 DOMAIN-SUFFIX,okemby.org,🎞️ BEUP节点
-DOMAIN-SUFFIX,emos.lol,🎞️ BEUP节点
-DOMAIN-SUFFIX,empn.mom,🎞️ BEUP节点
-DOMAIN,tv.luyuyun.com,🎞️ Emby专用
+DOMAIN-SUFFIX,uhdnow.com,🎞️ BEUP节点
+DOMAIN,tv.luyuyun.com,🎞️ BEUP节点
+DOMAIN-SUFFIX,lyrebirdemby.online,DIRECT
 DOMAIN-SUFFIX,zn.al,🇺🇸 美国
 DOMAIN-SUFFIX,veryfast.filegear-sg.me,🇹🇼 台湾
 DOMAIN-SUFFIX,oktv.workers.dev,🇹🇼 台湾
