@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202601011
+# Version:202601271
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -16,7 +16,8 @@ DOMAIN,finderv1.video.qq.com
 DOMAIN,finderks.video.qq.com
 
 # > Cinema
-DOMAIN,akali.paoluma.de
+DOMAIN-SUFFIX,paoluma.de
+DOMAIN-SUFFIX,lyrebirsemby.online
 DOMAIN-KEYWORD,gying
 DOMAIN-KEYWORD,gyg
 DOMAIN-KEYWORD,tvbox?.com
