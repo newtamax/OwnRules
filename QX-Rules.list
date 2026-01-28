@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202601281
+#VER=202601282
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -674,6 +674,9 @@ DOMAIN,newtamax.dynu.net,DIRECT
 DOMAIN,newtamax.zapto.org,DIRECT
 DOMAIN,chenlihua.dynu.net,DIRECT
 DOMAIN,muxuhao.dynu.net,DIRECT
+DOMAIN,auto.liuer.indevs.in,DIRECT
+DOMAIN,auto.embys.dpdns.org,DIRECT
+DOMAIN,auto.dolby.dpdns.org,DIRECT
 # > qq
 DOMAIN,finderv1.video.qq.com,DIRECT
 DOMAIN,finderks.video.qq.com,DIRECT
