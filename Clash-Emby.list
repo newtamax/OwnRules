@@ -1,14 +1,11 @@
 # 代理补充列表(HK-BEUP-Emby)
-# Version:202701271
+# Version:202601281
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
 
 # > HK-BEUP-Emby
-DOMAIN-SUFFIX,beupisp.com
+DOMAIN,e.beupisp.com
+DOMAIN,tv.luyuyun.com
 DOMAIN-SUFFIX,cn2gias.uk
-DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN-SUFFIX,uhdnow.com
-DOMAIN-SUFFIX,xytx.org
-DOMAIN-SUFFIX,xylyra.com
 DOMAIN-SUFFIX,cloudfisher.cc
-DOMAIN,tv.luyuyun.com
