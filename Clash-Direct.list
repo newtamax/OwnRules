@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202601282
+# Version:202601291
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -10,6 +10,7 @@ DOMAIN,chenlihua.dynu.net
 DOMAIN,muxuhao.dynu.net
 DOMAIN,st.stga.cn
 DOMAIN,i.stga.cn
+DOMAIN,beupisp.stga.cn
 DOMAIN,auto.liuer.indevs.in
 DOMAIN,auto.embys.dpdns.org
 DOMAIN,auto.dolby.dpdns.org
