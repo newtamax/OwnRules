@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202601291
+#VER=202601301
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -746,16 +746,15 @@ DOMAIN-SUFFIX,yingshikong1.com,PROXY
 DOMAIN-SUFFIX,panku8.com,PROXY
 DOMAIN-SUFFIX,xiaoyakankan.com,PROXY
 DOMAIN-SUFFIX,a123tv.com,PROXY
-DOMAIN-SUFFIX,cloudfisher.cc,🎞️ BEUP节点
-DOMAIN-SUFFIX,oceancloud.asia,🎞️ BEUP节点
-DOMAIN-SUFFIX,cn2gias.uk,🎞️ BEUP节点
-DOMAIN-SUFFIX,uhdnow.com,🎞️ BEUP节点
-DOMAIN,e.beupisp.com,🎞️ BEUP节点
-DOMAIN,tv.luyuyun.com,🎞️ BEUP节点
+DOMAIN-SUFFIX,cloudfisher.cc,🎞️ Owner节点
+DOMAIN-SUFFIX,oceancloud.asia,🎞️ Owner节点
+DOMAIN-SUFFIX,cn2gias.uk,🎞️ Owner节点
+DOMAIN-SUFFIX,uhdnow.com,🎞️ Owner节点
+DOMAIN,e.beupisp.com,🎞️ Owner节点
+DOMAIN,tv.luyuyun.com,🎞️ Owner节点
 DOMAIN-SUFFIX,okemby.org,DIRECT
 DOMAIN-SUFFIX,paoluma.de,DIRECT
 DOMAIN-SUFFIX,lyrebirdemby.online,DIRECT
-DOMAIN-SUFFIX,zn.al,🇺🇸 美国
 DOMAIN-SUFFIX,veryfast.filegear-sg.me,🇹🇼 台湾
 DOMAIN-SUFFIX,oktv.workers.dev,🇹🇼 台湾
 DOMAIN-SUFFIX,xtvantsc.xyz,🇹🇼 台湾
