@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202601271
+# Version:202602191
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -83,6 +83,8 @@ DOMAIN-SUFFIX,downloadyoutubesubtitles.com
 DOMAIN-SUFFIX,tvbox.fit
 DOMAIN-SUFFIX,xggzy.com
 DOMAIN-SUFFIX,weather-in-calendar.com
+DOMAIN-SUFFIX,meteogroup.com
+DOMAIN-SUFFIX,meteogroup.de
 DOMAIN-KEYWORD,4pda
 
 # > Cinema
