@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202602241
+#VER=202603281
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -722,6 +722,7 @@ DOMAIN-SUFFIX,weather-in-calendar.com,PROXY
 DOMAIN-SUFFIX,meteogroup.com,PROXY
 DOMAIN-SUFFIX,meteogroup.de,PROXY
 DOMAIN-SUFFIX,freedom.gov,PROXY
+DOMAIN-SUFFIX,usvisascheduling.com,PROXY
 DOMAIN-KEYWORD,4pda,PROXY
 IP-CIDR,95.161.76.100/31,REJECT
 # > Cinema
