@@ -1,0 +1,8 @@
+#TITLE=QX-Rules-Mosavi
+#VER=202604131
+DOMAIN-SUFFIX,mosavi.io
+DOMAIN-KEYWORD,mosavi
+DOMAIN-KEYWORD,nostr
+DOMAIN-SUFFIX,nostr.land
+DOMAIN-SUFFIX,nostr.watch
+DOMAIN-SUFFIX,damus.io
