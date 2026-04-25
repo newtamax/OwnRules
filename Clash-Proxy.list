@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202604252
+# Version:202604253
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,inets.io
 DOMAIN-SUFFIX,良心云.com
 DOMAIN-SUFFIX,linkcube.org
 DOMAIN-SUFFIX,xn--9kqz23b19z.com
+DOMAIN-SUFFIX,qingfengyun.xyz
 DOMAIN,luyuyun.com
 DOMAIN,t.stga.cn
 DOMAIN,x.stga.cn
