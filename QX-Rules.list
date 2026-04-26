@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202604252
+#VER=202604261
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -755,6 +755,7 @@ DOMAIN-SUFFIX,cloudfisher.cc,🎞️ Owner节点
 DOMAIN-SUFFIX,oceancloud.asia,🎞️ Owner节点
 DOMAIN-SUFFIX,cn2gias.uk,🎞️ Owner节点
 DOMAIN-SUFFIX,uhdnow.com,🎞️ Owner节点
+DOMAIN-SUFFIX,emby.moe,🎞️ Owner节点
 DOMAIN,e.beupisp.com,🎞️ Owner节点
 DOMAIN,tv.luyuyun.com,🎞️ Owner节点
 DOMAIN-SUFFIX,okemby.org,DIRECT
