@@ -1,5 +1,5 @@
 # 代理补充列表(HK-BEUP-Emby)
-# Version:202604261
+# Version:202604262
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
 
 # > HK-BEUP-Emby
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,oceancloud.asia
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,cloudfisher.cc
 DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,xxlb.net
