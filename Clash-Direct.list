@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202601291
+# Version:202605281
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -23,6 +23,7 @@ DOMAIN,finderks.video.qq.com
 DOMAIN-SUFFIX,paoluma.de
 DOMAIN-SUFFIX,lyrebirsemby.online
 DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,sntp.me
 DOMAIN-KEYWORD,gying
 DOMAIN-KEYWORD,gyg
 DOMAIN-KEYWORD,tvbox?.com
