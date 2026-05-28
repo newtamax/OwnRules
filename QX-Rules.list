@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202605261
+#VER=202605281
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -671,7 +671,7 @@ DOMAIN,st.stga.cn,DIRECT
 DOMAIN,beupisp.stga.cn,DIRECT
 DOMAIN,t.stga.cn,PROXY
 DOMAIN,x.stga.cn,PROXY
-DOMAIN-KEYWORD,sntp,PROXY
+DOMAIN-SUFFIX,sntp.me,DIRECT
 DOMAIN-KEYWORD,tkv,PROXY
 DOMAIN-WILDCARD,yesha*,PROXY
 # > namespace
