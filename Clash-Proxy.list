@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202605281
+# Version:202605301
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,fmta.boo
 DOMAIN-SUFFIX,slsub.com
 DOMAIN-SUFFIX,starlinkcloud.club
 DOMAIN-SUFFIX,starink.pw
-DOMAIN-SUFFIX,lyrebird.cloud
+DOMAIN-SUFFIX,lyrebirdcloud.com
 DOMAIN-SUFFIX,kuaifaka.net
 DOMAIN-SUFFIX,91ai.de
 DOMAIN-SUFFIX,aikan.la
