@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202605281
+#VER=202605301
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -642,7 +642,7 @@ DOMAIN-SUFFIX,fmta.boo,PROXY
 DOMAIN-SUFFIX,slsub.com,PROXY
 DOMAIN-SUFFIX,starlinkcloud.club,PROXY
 DOMAIN-SUFFIX,starink.pw,PROXY
-DOMAIN-SUFFIX,lyrebird.cloud,PROXY
+DOMAIN-SUFFIX,lyrebirdcloud.com,PROXY
 DOMAIN-SUFFIX,kuaifaka.net,PROXY
 DOMAIN-SUFFIX,91ai.de,PROXY
 DOMAIN-SUFFIX,aikan.la,PROXY
