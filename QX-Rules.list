@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202605301
+#VER=202605311
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -773,6 +773,7 @@ DOMAIN-SUFFIX,jdshipin.com,🇹🇼 台湾
 DOMAIN-SUFFIX,tvclub.xyz,🇹🇼 台湾
 DOMAIN-SUFFIX,fanmingming.cn,PROXY
 DOMAIN-SUFFIX,247kan.com,PROXY
+DOMAIN-SUFFIX,jrkan.com,PROXY
 DOMAIN-KEYWORD,histar,PROXY
 DOMAIN-KEYWORD,missav,PROXY
 IP-CIDR,152.53.19.231/32,DIRECT
