@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202605311
+# Version:202607151
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,weather-in-calendar.com
 DOMAIN-SUFFIX,meteogroup.com
 DOMAIN-SUFFIX,meteogroup.de
 DOMAIN-SUFFIX,freedom.gov
+DOMAIN-SUFFIX,search-sharp.com
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,mirrors
