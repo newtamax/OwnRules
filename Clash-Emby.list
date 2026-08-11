@@ -1,9 +1,8 @@
-# 代理补充列表(HK-BEUP-Emby)
-# Version:202604262
+# 代理补充列表(Owner-Emby)
+# Version:202608111
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
 
-# > HK-BEUP-Emby
-DOMAIN,e.beupisp.com
+# > Owner-Emby
 DOMAIN,tv.luyuyun.com
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,oceancloud.asia
