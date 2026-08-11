@@ -1,0 +1,6 @@
+# 代理补充列表(BEUP-Emby)
+# Version:202608111
+# REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-BEUP.list
+
+# > BEUP-Emby
+DOMAIN,e.beupisp.com
