@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202608141
+# Version:202608142
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -11,6 +11,7 @@ DOMAIN,muxuhao.dynu.net
 DOMAIN,st.stga.cn
 DOMAIN,i.stga.cn
 DOMAIN,s.scucedu.com
+IP-CIDR,106.15.32.78/32,DIRECT
 DOMAIN,beupisp.stga.cn
 DOMAIN,auto.liuer.indevs.in
 DOMAIN,auto.embys.dpdns.org
