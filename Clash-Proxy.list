@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202608021
+# Version:202608251
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -120,6 +120,7 @@ DOMAIN-SUFFIX,fanmingming.cn
 DOMAIN-SUFFIX,247kan.com
 DOMAIN-SUFFIX,usvisascheduling.com
 DOMAIN-SUFFIX,jrkan.com
+DOMAIN,music.gdstudio.xyz
 DOMAIN-KEYWORD,histar
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,1e100
