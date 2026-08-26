@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202608142
+# Version:202608261
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -16,6 +16,7 @@ DOMAIN,beupisp.stga.cn
 DOMAIN,auto.liuer.indevs.in
 DOMAIN,auto.embys.dpdns.org
 DOMAIN,auto.dolby.dpdns.org
+DOMAIN-SUFFIX,mhlnf.cn
 
 # > qq
 DOMAIN,finderv1.video.qq.com
