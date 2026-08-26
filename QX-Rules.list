@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202608251
+#VER=202608271
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -662,7 +662,7 @@ DOMAIN-SUFFIX,xn--9kqz23b19z.com,PROXY
 DOMAIN-SUFFIX,linkcube.org,PROXY
 DOMAIN-SUFFIX,hokkaido-toyoni.com,PROXY
 DOMAIN-SUFFIX,sakana.homes,PROXY
-DOMAIN-SUFFIX,mhlnf.cn,PROXY
+DOMAIN-SUFFIX,mhlnf.cn,DIRECT
 DOMAIN,luyuyun.com,PROXY
 DOMAIN-SUFFIX,mexcpool.com,PROXY
 DOMAIN-KEYWORD,qingfengyun,PROXY
