@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202608251
+# Version:202608261
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,linkcube.org
 DOMAIN-SUFFIX,xn--9kqz23b19z.com
 DOMAIN-SUFFIX,hokkaido-toyoni.com
 DOMAIN-SUFFIX,sakana.homes
-DOMAIN-SUFFIX,mhlnf.cn
 DOMAIN-KEYWORD,qingfengyun
 DOMAIN,luyuyun.com
 DOMAIN,t.stga.cn
