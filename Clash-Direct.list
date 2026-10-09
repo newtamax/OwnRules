@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202608261
+# Version:202610091
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,lyrebirsemby.online
 DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,sntp.me
 DOMAIN-KEYWORD,gying
+DOMAIN-KEYWORD,yusen
 DOMAIN-KEYWORD,gyg
 DOMAIN-KEYWORD,tvbox?.com
 IP-CIDR,152.53.19.231/32,no-resolve
