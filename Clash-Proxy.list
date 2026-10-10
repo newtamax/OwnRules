@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202610101
+# Version:202610102
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,hokkaido-toyoni.com
 DOMAIN-SUFFIX,sakana.homes
 DOMAIN-KEYWORD,qingfengyun
 DOMAIN,sub.asailor.org
+DOMAIN,api.asailor.org
 DOMAIN,luyuyun.com
 DOMAIN,t.stga.cn
 DOMAIN,x.stga.cn
