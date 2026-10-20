@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202610101
+#VER=202610201
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -663,11 +663,11 @@ DOMAIN-SUFFIX,linkcube.org,PROXY
 DOMAIN-SUFFIX,hokkaido-toyoni.com,PROXY
 DOMAIN-SUFFIX,sakana.homes,PROXY
 DOMAIN-SUFFIX,mhlnf.cn,DIRECT
+DOMAIN,api.asailor.org,PROXY
 DOMAIN,luyuyun.com,PROXY
 DOMAIN-SUFFIX,mexcpool.com,PROXY
 DOMAIN-KEYWORD,qingfengyun,PROXY
 DOMAIN,s.scucedu.com,DIRECT
-IP-CIDR,106.15.32.78/32,DIRECT
 DOMAIN,i.stga.cn,DIRECT
 DOMAIN,st.stga.cn,DIRECT
 DOMAIN,beupisp.stga.cn,DIRECT
@@ -677,6 +677,7 @@ DOMAIN,x.stga.cn,PROXY
 DOMAIN-SUFFIX,sntp.me,DIRECT
 DOMAIN-KEYWORD,tkv,PROXY
 DOMAIN-WILDCARD,yesha*,PROXY
+IP-CIDR,106.15.32.78/32,DIRECT
 # > namespace
 DOMAIN,newtamax.dynu.net,DIRECT
 DOMAIN,newtamax.zapto.org,DIRECT
