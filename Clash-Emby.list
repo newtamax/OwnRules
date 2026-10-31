@@ -1,5 +1,5 @@
 # 代理补充列表(Owner-Emby)
-# Version:202608111
+# Version:202610311
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Emby.list
 
 # > Owner-Emby
@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,cloudfisher.cc
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,bbqwq.com
