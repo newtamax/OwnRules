@@ -1,5 +1,5 @@
 #TITLE=QX-Rules
-#VER=202610241
+#VER=202610311
 #URL=https://github.com/newtamax/OwnRules/raw/master/QX-Rules.list
 #    https://raw.githubusercontent.com/newtamax/OwnRules/refs/heads/master/QX-Rules.list
 #    https://cdn.jsdelivr.net/gh/newtamax/OwnRules@master/QX-Rules.list
@@ -770,8 +770,11 @@ DOMAIN-SUFFIX,emby.moe,🎞️ Owner节点
 DOMAIN-SUFFIX,xxlb.net,🎞️ Owner节点
 DOMAIN,e.beupisp.com,🎞️ BEUP节点
 DOMAIN,tv.luyuyun.com,🎞️ Owner节点
-DOMAIN-SUFFIX,okemby.org,DIRECT
+DOMAIN-SUFFIX,okemby.org,🎞️ Owner节点
+DOMAIN-SUFFIX,bbqwq.com,🎞️ Owner节点
 DOMAIN-SUFFIX,paoluma.de,DIRECT
+DOMAIN-SUFFIX,array2026.cc,DIRECT
+DOMAIN-SUFFIX,array2026.com,DIRECT
 DOMAIN-SUFFIX,lyrebirdemby.online,DIRECT
 DOMAIN-SUFFIX,veryfast.filegear-sg.me,🇹🇼 台湾
 DOMAIN-SUFFIX,oktv.workers.dev,🇹🇼 台湾
