@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Version:202610311
+# Version:202611011
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Direct.list
 
 # > namespace
@@ -8,6 +8,8 @@ DOMAIN,newtamax.dynu.net
 DOMAIN,newtamax.zapto.org
 DOMAIN,chenlihua.dynu.net
 DOMAIN,muxuhao.dynu.net
+DOMAIN,kakawu.mywire.org
+DOMAIN,kakawu.duckdns.org
 DOMAIN,st.stga.cn
 DOMAIN,i.stga.cn
 DOMAIN,s.scucedu.com
