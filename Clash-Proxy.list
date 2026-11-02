@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202610241
+# Version:202611021
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -47,6 +47,7 @@ DOMAIN,luyuyun.com
 DOMAIN,t.stga.cn
 DOMAIN,x.stga.cn
 DOMAIN,hk.hishis.cn
+DOMAIN,hk.tannel.asia
 DOMAIN-KEYWORD,yesha
 DOMAIN-KEYWORD,tkv
 
