@@ -1,5 +1,5 @@
 # 代理补充列表
-# Version:202611021
+# Version:202611181
 # REPO:https://raw.githubusercontent.com/newtamax/OwnRules/master/Clash-Proxy.list
 
 # > airport
@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,search-sharp.com
 DOMAIN-SUFFIX,ttartisan.com.tw
 DOMAIN-SUFFIX,redteago.com
+DOMAIN-SUFFIX,ccporg.org
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,mirrors
